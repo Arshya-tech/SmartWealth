@@ -19,7 +19,7 @@ Built on the theme of **AI for Human Empowerment**, SmartWealth gives users **re
 ## Tech Stack  
 **Frontend**: React, Tailwind CSS, Next.js, shadcn/ui
 
-**Backend**: JavaScript
+**Backend**: TypeScript
 
 **APIs Used**:
 

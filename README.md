@@ -17,7 +17,7 @@ Built on the theme of **AI for Human Empowerment**, SmartWealth gives users **re
 - **💰 Smart Portfolio Recommendations** – AI-driven investment strategies tailored to user goals  
 
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 **Frontend**: React, Tailwind CSS, Next.js, shadcn/ui
 
 **Backend**: JavaScript

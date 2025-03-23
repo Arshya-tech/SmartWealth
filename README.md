@@ -6,7 +6,6 @@ SmartWealth is an AI-driven financial analytics platform designed to democratize
 
 Built on the theme of **AI for Human Empowerment**, SmartWealth gives users **real-time data, market sentiment analysis, and blockchain intelligence**, helping them make **smarter, data-driven investment decisions.**  
 
-📢 **Best viewed in horizontal mode on mobile devices for optimal experience.**  
 
 ## Key Features  
 - **📈 AI-Powered Market Analysis** – Advanced AI insights for stocks, crypto, and ETFs  

@@ -31,7 +31,7 @@ Built on the theme of **AI for Human Empowerment**, SmartWealth gives users **re
 
 **Data Visualisation**: Chart.js
 
-**Prototyping Tool**: Using v0 for early-stage mock data and functionality
+**Prototyping Tool**: Using v0 for early-stage placeholder data and functionality
 
 **Design Tool**: Designed using Figma
 

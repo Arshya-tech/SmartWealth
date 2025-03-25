@@ -43,4 +43,23 @@ SmartWealth is live at: **[smart-wealth.vercel.app](https://smart-wealth.vercel.
 
 ## Demo  
 
-https://youtu.be/wanq_zMGwOo  
+URL: https://youtu.be/wanq_zMGwOo  
+
+### Preview 
+
+<p>
+  <img src="app/SW_Strategies.png" width="500" height="311">
+  <img src="app/SW_PortfolioBuilderGraph.png" width="500">
+</p>
+
+<p>
+   <img src="app/SW_AutoAdjust.png" width="500" height="264">
+   <img src="app/SW_RiskAnalyzer.png" width="500">
+ 
+</p>
+
+<p>
+  <img src="app/SW_SentimentAnalyzer.png" width="500">
+  <img src="app/SW_BlockchainContracts.png" width="500" height="269">
+</p>
+

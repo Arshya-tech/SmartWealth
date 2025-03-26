@@ -1,4 +1,6 @@
 # SmartWealth 
+### _GenAI Genesis'25_
+ 
 **Your Personal AI-Powered Hedge Fund for Smarter Investing**  
 
 ## Overview  
